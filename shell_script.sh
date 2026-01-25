@@ -4,4 +4,4 @@ echo "I am trying to add a commit from shell script after stting ngrok, still"
 
 echo "Now it looks like it si working fine"
 
-echo "I am from feature branch merged to main"
+echo "I am from feature branch merged to main checkking by adding commit"
